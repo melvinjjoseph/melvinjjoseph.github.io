@@ -144,6 +144,10 @@
 /* main body */
 
 /* body-color */
+.yrs-studied{
+  font-weight: 300;
+}
+
 
 body {
   color: #333;
