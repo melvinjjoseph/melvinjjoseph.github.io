@@ -1,1 +1,3 @@
 User-agent: *
+Allow: /
+Sitemap: https://melvin.is-a.dev/sitemap.xml
