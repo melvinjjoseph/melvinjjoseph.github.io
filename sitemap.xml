@@ -2,87 +2,170 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://melvin.is-a.dev/post/getting-started/</loc>
-    <lastmod>2019-05-03T09:37:55+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://melvin.is-a.dev/</loc>
-    <lastmod>2019-05-03T09:37:55+02:00</lastmod>
+    <lastmod>2024-12-15T10:00:00+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://melvin.is-a.dev/post/</loc>
-    <lastmod>2019-05-03T09:37:55+02:00</lastmod>
+    <loc>https://melvin.is-a.dev/techs/huggingface/</loc>
+    <lastmod>2024-12-15T10:00:00+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://melvin.is-a.dev/post/portfolio-definition/</loc>
-    <lastmod>2019-05-02T19:49:05+02:00</lastmod>
+    <loc>https://melvin.is-a.dev/portfolio/sports-summarization/</loc>
+    <lastmod>2024-12-15T10:00:00+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://melvin.is-a.dev/techs/d3/</loc>
-    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://melvin.is-a.dev/designs/</loc>
-    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://melvin.is-a.dev/techs/javascript/</loc>
-    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://melvin.is-a.dev/designs/photoshop/</loc>
-    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
+    <loc>https://melvin.is-a.dev/techs/opencv/</loc>
+    <lastmod>2024-12-15T10:00:00+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://melvin.is-a.dev/portfolio/</loc>
-    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
+    <lastmod>2024-12-15T10:00:00+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://melvin.is-a.dev/portfolio/sample-project/</loc>
-    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
+    <loc>https://melvin.is-a.dev/techs/python/</loc>
+    <lastmod>2024-12-15T10:00:00+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://melvin.is-a.dev/techs/pytorch/</loc>
+    <lastmod>2024-12-15T10:00:00+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://melvin.is-a.dev/techs/streamlit/</loc>
+    <lastmod>2024-12-15T10:00:00+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://melvin.is-a.dev/techs/</loc>
-    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
+    <lastmod>2024-12-15T10:00:00+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://melvin.is-a.dev/post/archetypes/</loc>
-    <lastmod>2019-05-02T19:25:30+02:00</lastmod>
+    <loc>https://melvin.is-a.dev/techs/hugging-face/</loc>
+    <lastmod>2024-04-15T00:00:00+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://melvin.is-a.dev/post/shortcodes/</loc>
-    <lastmod>2019-04-29T16:18:12+01:00</lastmod>
+    <loc>https://melvin.is-a.dev/techs/keras/</loc>
+    <lastmod>2024-04-15T00:00:00+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://melvin.is-a.dev/post/config-file/</loc>
-    <lastmod>2019-04-20T16:18:12+01:00</lastmod>
+    <loc>https://melvin.is-a.dev/techs/lstm/</loc>
+    <lastmod>2024-04-15T00:00:00+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://melvin.is-a.dev/post/pages/</loc>
-    <lastmod>2019-04-20T16:18:12+01:00</lastmod>
+    <loc>https://melvin.is-a.dev/portfolio/stock-forecast/</loc>
+    <lastmod>2024-04-15T00:00:00+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://melvin.is-a.dev/post/define-specific-og-image/</loc>
-    <lastmod>2019-04-20T11:14:59+02:00</lastmod>
+    <loc>https://melvin.is-a.dev/techs/docker/</loc>
+    <lastmod>2024-03-10T00:00:00+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://melvin.is-a.dev/techs/flask/</loc>
+    <lastmod>2024-03-10T00:00:00+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://melvin.is-a.dev/portfolio/inventory/</loc>
+    <lastmod>2024-03-10T00:00:00+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://melvin.is-a.dev/techs/mongodb/</loc>
+    <lastmod>2024-03-10T00:00:00+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://melvin.is-a.dev/techs/rabbitmq/</loc>
+    <lastmod>2024-03-10T00:00:00+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://melvin.is-a.dev/techs/rust/</loc>
+    <lastmod>2023-09-01T10:00:00+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://melvin.is-a.dev/portfolio/vinhal/</loc>
+    <lastmod>2023-09-01T10:00:00+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://melvin.is-a.dev/techs/express/</loc>
+    <lastmod>2023-05-15T10:00:00+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://melvin.is-a.dev/techs/nodejs/</loc>
+    <lastmod>2023-05-15T10:00:00+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://melvin.is-a.dev/techs/postgresql/</loc>
+    <lastmod>2023-05-15T10:00:00+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://melvin.is-a.dev/techs/react/</loc>
+    <lastmod>2023-05-15T10:00:00+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://melvin.is-a.dev/portfolio/stock-trading-app/</loc>
+    <lastmod>2023-05-15T10:00:00+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://melvin.is-a.dev/portfolio/restaurant/</loc>
+    <lastmod>2022-12-20T10:00:00+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://melvin.is-a.dev/techs/vercel/</loc>
+    <lastmod>2022-12-20T10:00:00+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://melvin.is-a.dev/portfolio/graduate-admission/</loc>
+    <lastmod>2022-09-10T10:00:00+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://melvin.is-a.dev/techs/sklearn/</loc>
+    <lastmod>2022-09-10T10:00:00+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://melvin.is-a.dev/techs/socket/</loc>
+    <lastmod>2022-06-01T10:00:00+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://melvin.is-a.dev/portfolio/tic-tac-toc/</loc>
+    <lastmod>2022-06-01T10:00:00+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://melvin.is-a.dev/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://melvin.is-a.dev/designs/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://melvin.is-a.dev/post/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docker on Melvin J Joseph</title>
+    <link>https://melvin.is-a.dev/techs/docker/</link>
+    <description>Recent content in Docker on Melvin J Joseph</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Melvin J Joseph</copyright>
+    <lastBuildDate>Sun, 10 Mar 2024 00:00:00 +0530</lastBuildDate>
+    <atom:link href="https://melvin.is-a.dev/techs/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inventory Management System</title>
+      <link>https://melvin.is-a.dev/portfolio/inventory/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0530</pubDate>
+      <guid>https://melvin.is-a.dev/portfolio/inventory/</guid>
+      <description>This inventory system was built with a microservices architecture using Flask and RabbitMQ for decoupled inter-service communication. Key services include health checks, item management, stock updates, and order handling.&#xA;MongoDB was used for data persistence with full CRUD support. The entire system is containerized using Docker for seamless deployment across environments.</description>
+    </item>
+  </channel>
+</rss>

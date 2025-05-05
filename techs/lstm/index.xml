@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LSTM on Melvin J Joseph</title>
+    <link>https://melvin.is-a.dev/techs/lstm/</link>
+    <description>Recent content in LSTM on Melvin J Joseph</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Melvin J Joseph</copyright>
+    <lastBuildDate>Mon, 15 Apr 2024 00:00:00 +0530</lastBuildDate>
+    <atom:link href="https://melvin.is-a.dev/techs/lstm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sentiment-Driven Stock Price Forecasting</title>
+      <link>https://melvin.is-a.dev/portfolio/stock-forecast/</link>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0530</pubDate>
+      <guid>https://melvin.is-a.dev/portfolio/stock-forecast/</guid>
+      <description>This project involves scraping and curating daily news articles related to Tata Motors and analyzing the sentiment of each article using NLP models from Hugging Face.&#xA;A Long Short-Term Memory (LSTM) model was trained to forecast stock price movements based on these sentiments and historical data, revealing the impact of public sentiment on market behavior.</description>
+    </item>
+  </channel>
+</rss>

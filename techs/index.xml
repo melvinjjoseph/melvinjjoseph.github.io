@@ -7,20 +7,146 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Melvin J Joseph</copyright>
-    <lastBuildDate>Thu, 02 May 2019 19:47:09 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2024 10:00:00 +0530</lastBuildDate>
     <atom:link href="https://melvin.is-a.dev/techs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>D3</title>
-      <link>https://melvin.is-a.dev/techs/d3/</link>
-      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
-      <guid>https://melvin.is-a.dev/techs/d3/</guid>
+      <title>huggingface</title>
+      <link>https://melvin.is-a.dev/techs/huggingface/</link>
+      <pubDate>Sun, 15 Dec 2024 10:00:00 +0530</pubDate>
+      <guid>https://melvin.is-a.dev/techs/huggingface/</guid>
       <description></description>
     </item>
     <item>
-      <title>javascript</title>
-      <link>https://melvin.is-a.dev/techs/javascript/</link>
-      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
-      <guid>https://melvin.is-a.dev/techs/javascript/</guid>
+      <title>opencv</title>
+      <link>https://melvin.is-a.dev/techs/opencv/</link>
+      <pubDate>Sun, 15 Dec 2024 10:00:00 +0530</pubDate>
+      <guid>https://melvin.is-a.dev/techs/opencv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>python</title>
+      <link>https://melvin.is-a.dev/techs/python/</link>
+      <pubDate>Sun, 15 Dec 2024 10:00:00 +0530</pubDate>
+      <guid>https://melvin.is-a.dev/techs/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>pytorch</title>
+      <link>https://melvin.is-a.dev/techs/pytorch/</link>
+      <pubDate>Sun, 15 Dec 2024 10:00:00 +0530</pubDate>
+      <guid>https://melvin.is-a.dev/techs/pytorch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>streamlit</title>
+      <link>https://melvin.is-a.dev/techs/streamlit/</link>
+      <pubDate>Sun, 15 Dec 2024 10:00:00 +0530</pubDate>
+      <guid>https://melvin.is-a.dev/techs/streamlit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugging Face</title>
+      <link>https://melvin.is-a.dev/techs/hugging-face/</link>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0530</pubDate>
+      <guid>https://melvin.is-a.dev/techs/hugging-face/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Keras</title>
+      <link>https://melvin.is-a.dev/techs/keras/</link>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0530</pubDate>
+      <guid>https://melvin.is-a.dev/techs/keras/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LSTM</title>
+      <link>https://melvin.is-a.dev/techs/lstm/</link>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0530</pubDate>
+      <guid>https://melvin.is-a.dev/techs/lstm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docker</title>
+      <link>https://melvin.is-a.dev/techs/docker/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0530</pubDate>
+      <guid>https://melvin.is-a.dev/techs/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Flask</title>
+      <link>https://melvin.is-a.dev/techs/flask/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0530</pubDate>
+      <guid>https://melvin.is-a.dev/techs/flask/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MongoDB</title>
+      <link>https://melvin.is-a.dev/techs/mongodb/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0530</pubDate>
+      <guid>https://melvin.is-a.dev/techs/mongodb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RabbitMQ</title>
+      <link>https://melvin.is-a.dev/techs/rabbitmq/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0530</pubDate>
+      <guid>https://melvin.is-a.dev/techs/rabbitmq/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>rust</title>
+      <link>https://melvin.is-a.dev/techs/rust/</link>
+      <pubDate>Fri, 01 Sep 2023 10:00:00 +0530</pubDate>
+      <guid>https://melvin.is-a.dev/techs/rust/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>express</title>
+      <link>https://melvin.is-a.dev/techs/express/</link>
+      <pubDate>Mon, 15 May 2023 10:00:00 +0530</pubDate>
+      <guid>https://melvin.is-a.dev/techs/express/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>nodejs</title>
+      <link>https://melvin.is-a.dev/techs/nodejs/</link>
+      <pubDate>Mon, 15 May 2023 10:00:00 +0530</pubDate>
+      <guid>https://melvin.is-a.dev/techs/nodejs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>postgresql</title>
+      <link>https://melvin.is-a.dev/techs/postgresql/</link>
+      <pubDate>Mon, 15 May 2023 10:00:00 +0530</pubDate>
+      <guid>https://melvin.is-a.dev/techs/postgresql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>react</title>
+      <link>https://melvin.is-a.dev/techs/react/</link>
+      <pubDate>Mon, 15 May 2023 10:00:00 +0530</pubDate>
+      <guid>https://melvin.is-a.dev/techs/react/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>vercel</title>
+      <link>https://melvin.is-a.dev/techs/vercel/</link>
+      <pubDate>Tue, 20 Dec 2022 10:00:00 +0530</pubDate>
+      <guid>https://melvin.is-a.dev/techs/vercel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>sklearn</title>
+      <link>https://melvin.is-a.dev/techs/sklearn/</link>
+      <pubDate>Sat, 10 Sep 2022 10:00:00 +0530</pubDate>
+      <guid>https://melvin.is-a.dev/techs/sklearn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>socket</title>
+      <link>https://melvin.is-a.dev/techs/socket/</link>
+      <pubDate>Wed, 01 Jun 2022 10:00:00 +0530</pubDate>
+      <guid>https://melvin.is-a.dev/techs/socket/</guid>
       <description></description>
     </item>
   </channel>

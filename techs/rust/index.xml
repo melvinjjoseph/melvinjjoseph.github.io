@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rust on Melvin J Joseph</title>
+    <link>https://melvin.is-a.dev/techs/rust/</link>
+    <description>Recent content in rust on Melvin J Joseph</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Melvin J Joseph</copyright>
+    <lastBuildDate>Fri, 01 Sep 2023 10:00:00 +0530</lastBuildDate>
+    <atom:link href="https://melvin.is-a.dev/techs/rust/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vinhal</title>
+      <link>https://melvin.is-a.dev/portfolio/vinhal/</link>
+      <pubDate>Fri, 01 Sep 2023 10:00:00 +0530</pubDate>
+      <guid>https://melvin.is-a.dev/portfolio/vinhal/</guid>
+      <description>Vinhal is a basic machine learning library built in Rust and exposed to Python using PyO3 and Maturin. It helps understand ML internals and achieves 50%-90% faster training times than native Python implementations.&#xA;Built without external dependencies. Exposes safe Python bindings via Rust. Trains models super fast. </description>
+    </item>
+  </channel>
+</rss>

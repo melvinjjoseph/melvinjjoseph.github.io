@@ -7,14 +7,63 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Melvin J Joseph</copyright>
-    <lastBuildDate>Thu, 02 May 2019 19:47:09 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2024 10:00:00 +0530</lastBuildDate>
     <atom:link href="https://melvin.is-a.dev/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sample project</title>
-      <link>https://melvin.is-a.dev/portfolio/sample-project/</link>
-      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
-      <guid>https://melvin.is-a.dev/portfolio/sample-project/</guid>
-      <description>This would be a description of your sample project. You can add any content you&amp;rsquo;d like.&#xA;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <title>Multi-modal Sports Video Summarization</title>
+      <link>https://melvin.is-a.dev/portfolio/sports-summarization/</link>
+      <pubDate>Sun, 15 Dec 2024 10:00:00 +0530</pubDate>
+      <guid>https://melvin.is-a.dev/portfolio/sports-summarization/</guid>
+      <description>Built a multi-modal pipeline using BERT and CNNs to detect and align important football moments from commentary and scoreboard video. Final output is a stitched highlight video.&#xA;Fine-tuned BERT for audio commentary classification. Used image processing on scoreboard to extract goal/match events. Weighted timestamp fusion for final highlight stitching. UI built using Streamlit for interactive demo. Here&amp;rsquo;s the Architecture of the system:</description>
+    </item>
+    <item>
+      <title>Sentiment-Driven Stock Price Forecasting</title>
+      <link>https://melvin.is-a.dev/portfolio/stock-forecast/</link>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0530</pubDate>
+      <guid>https://melvin.is-a.dev/portfolio/stock-forecast/</guid>
+      <description>This project involves scraping and curating daily news articles related to Tata Motors and analyzing the sentiment of each article using NLP models from Hugging Face.&#xA;A Long Short-Term Memory (LSTM) model was trained to forecast stock price movements based on these sentiments and historical data, revealing the impact of public sentiment on market behavior.</description>
+    </item>
+    <item>
+      <title>Inventory Management System</title>
+      <link>https://melvin.is-a.dev/portfolio/inventory/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0530</pubDate>
+      <guid>https://melvin.is-a.dev/portfolio/inventory/</guid>
+      <description>This inventory system was built with a microservices architecture using Flask and RabbitMQ for decoupled inter-service communication. Key services include health checks, item management, stock updates, and order handling.&#xA;MongoDB was used for data persistence with full CRUD support. The entire system is containerized using Docker for seamless deployment across environments.</description>
+    </item>
+    <item>
+      <title>Vinhal</title>
+      <link>https://melvin.is-a.dev/portfolio/vinhal/</link>
+      <pubDate>Fri, 01 Sep 2023 10:00:00 +0530</pubDate>
+      <guid>https://melvin.is-a.dev/portfolio/vinhal/</guid>
+      <description>Vinhal is a basic machine learning library built in Rust and exposed to Python using PyO3 and Maturin. It helps understand ML internals and achieves 50%-90% faster training times than native Python implementations.&#xA;Built without external dependencies. Exposes safe Python bindings via Rust. Trains models super fast. </description>
+    </item>
+    <item>
+      <title>Stock Trading Web-App</title>
+      <link>https://melvin.is-a.dev/portfolio/stock-trading-app/</link>
+      <pubDate>Mon, 15 May 2023 10:00:00 +0530</pubDate>
+      <guid>https://melvin.is-a.dev/portfolio/stock-trading-app/</guid>
+      <description>The app allows users to view real-time stock prices, buy/sell stocks, and track portfolio allocation using the IEX Cloud API.&#xA;Full PERN stack application. Includes user auth, charts (Chart.js), and allocation tracking. </description>
+    </item>
+    <item>
+      <title>Restaurant Booking App</title>
+      <link>https://melvin.is-a.dev/portfolio/restaurant/</link>
+      <pubDate>Tue, 20 Dec 2022 10:00:00 +0530</pubDate>
+      <guid>https://melvin.is-a.dev/portfolio/restaurant/</guid>
+      <description>Users can reserve tables and manage bookings. Data is stored in MongoDB Atlas, and the UI is deployed via Vercel.&#xA;Mobile-friendly design. Instant table booking. Modern frontend and backend stack. </description>
+    </item>
+    <item>
+      <title>Graduate Admission Predictor</title>
+      <link>https://melvin.is-a.dev/portfolio/graduate-admission/</link>
+      <pubDate>Sat, 10 Sep 2022 10:00:00 +0530</pubDate>
+      <guid>https://melvin.is-a.dev/portfolio/graduate-admission/</guid>
+      <description>This Streamlit app predicts the chances of a student getting admitted based on academic metrics like GRE, TOEFL, CGPA, and more.&#xA;Uses linear regression from Scikit-learn. Clean UI and hosted app. </description>
+    </item>
+    <item>
+      <title>Tic Tac Toe (Socket Programming)</title>
+      <link>https://melvin.is-a.dev/portfolio/tic-tac-toc/</link>
+      <pubDate>Wed, 01 Jun 2022 10:00:00 +0530</pubDate>
+      <guid>https://melvin.is-a.dev/portfolio/tic-tac-toc/</guid>
+      <description>A network-based two-player Tic Tac Toe game using client-server architecture.&#xA;Uses Python socket library. Easy to play over a local network. </description>
     </item>
   </channel>
 </rss>

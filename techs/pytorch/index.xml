@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pytorch on Melvin J Joseph</title>
+    <link>https://melvin.is-a.dev/techs/pytorch/</link>
+    <description>Recent content in pytorch on Melvin J Joseph</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Melvin J Joseph</copyright>
+    <lastBuildDate>Sun, 15 Dec 2024 10:00:00 +0530</lastBuildDate>
+    <atom:link href="https://melvin.is-a.dev/techs/pytorch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multi-modal Sports Video Summarization</title>
+      <link>https://melvin.is-a.dev/portfolio/sports-summarization/</link>
+      <pubDate>Sun, 15 Dec 2024 10:00:00 +0530</pubDate>
+      <guid>https://melvin.is-a.dev/portfolio/sports-summarization/</guid>
+      <description>Built a multi-modal pipeline using BERT and CNNs to detect and align important football moments from commentary and scoreboard video. Final output is a stitched highlight video.&#xA;Fine-tuned BERT for audio commentary classification. Used image processing on scoreboard to extract goal/match events. Weighted timestamp fusion for final highlight stitching. UI built using Streamlit for interactive demo. Here&amp;rsquo;s the Architecture of the system:</description>
+    </item>
+  </channel>
+</rss>

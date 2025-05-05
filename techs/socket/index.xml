@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>socket on Melvin J Joseph</title>
+    <link>https://melvin.is-a.dev/techs/socket/</link>
+    <description>Recent content in socket on Melvin J Joseph</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Melvin J Joseph</copyright>
+    <lastBuildDate>Wed, 01 Jun 2022 10:00:00 +0530</lastBuildDate>
+    <atom:link href="https://melvin.is-a.dev/techs/socket/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tic Tac Toe (Socket Programming)</title>
+      <link>https://melvin.is-a.dev/portfolio/tic-tac-toc/</link>
+      <pubDate>Wed, 01 Jun 2022 10:00:00 +0530</pubDate>
+      <guid>https://melvin.is-a.dev/portfolio/tic-tac-toc/</guid>
+      <description>A network-based two-player Tic Tac Toe game using client-server architecture.&#xA;Uses Python socket library. Easy to play over a local network. </description>
+    </item>
+  </channel>
+</rss>

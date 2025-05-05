@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nodejs on Melvin J Joseph</title>
+    <link>https://melvin.is-a.dev/techs/nodejs/</link>
+    <description>Recent content in nodejs on Melvin J Joseph</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Melvin J Joseph</copyright>
+    <lastBuildDate>Mon, 15 May 2023 10:00:00 +0530</lastBuildDate>
+    <atom:link href="https://melvin.is-a.dev/techs/nodejs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stock Trading Web-App</title>
+      <link>https://melvin.is-a.dev/portfolio/stock-trading-app/</link>
+      <pubDate>Mon, 15 May 2023 10:00:00 +0530</pubDate>
+      <guid>https://melvin.is-a.dev/portfolio/stock-trading-app/</guid>
+      <description>The app allows users to view real-time stock prices, buy/sell stocks, and track portfolio allocation using the IEX Cloud API.&#xA;Full PERN stack application. Includes user auth, charts (Chart.js), and allocation tracking. </description>
+    </item>
+    <item>
+      <title>Restaurant Booking App</title>
+      <link>https://melvin.is-a.dev/portfolio/restaurant/</link>
+      <pubDate>Tue, 20 Dec 2022 10:00:00 +0530</pubDate>
+      <guid>https://melvin.is-a.dev/portfolio/restaurant/</guid>
+      <description>Users can reserve tables and manage bookings. Data is stored in MongoDB Atlas, and the UI is deployed via Vercel.&#xA;Mobile-friendly design. Instant table booking. Modern frontend and backend stack. </description>
+    </item>
+  </channel>
+</rss>
