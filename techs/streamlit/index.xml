@@ -14,7 +14,7 @@
       <link>https://melvin.is-a.dev/portfolio/sports-summarization/</link>
       <pubDate>Sun, 15 Dec 2024 10:00:00 +0530</pubDate>
       <guid>https://melvin.is-a.dev/portfolio/sports-summarization/</guid>
-      <description>Built a multi-modal pipeline using BERT and CNNs to detect and align important football moments from commentary and scoreboard video. Final output is a stitched highlight video.&#xA;Fine-tuned BERT for audio commentary classification. Used image processing on scoreboard to extract goal/match events. Weighted timestamp fusion for final highlight stitching. UI built using Streamlit for interactive demo. Here&amp;rsquo;s the Architecture of the system:</description>
+      <description>Built a multi-modal pipeline using BERT and CNNs to detect and align important football moments from commentary and scoreboard video. Final output is a stitched highlight video.&#xA;Fine-tuned BERT for audio commentary classification. Used image processing on scoreboard to extract goal/match events. Weighted timestamp fusion for final highlight stitching. UI built using Streamlit for interactive demo. Here&amp;rsquo;s the Architecture of the system:&#xA;This research was published in the 2025 12th International Conference on Emerging Trends in Engineering &amp;amp; Technology - Signal and Information Processing.</description>
     </item>
     <item>
       <title>Graduate Admission Predictor</title>
